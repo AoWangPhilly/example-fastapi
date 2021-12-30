@@ -27,5 +27,5 @@ def root():
     return {"message": "Hello World"}
 
 
-# technologies: FastAPI, Pydantic, Postman, VSCode, JWT Token Auth, SqlAlchemy, Alembic
+# technologies: FastAPI, Pydantic, Postman, VSCode, JWT Token Auth, SqlAlchemy, Alembic, Heroku
 # 6:32:49 JWT Token Basics
